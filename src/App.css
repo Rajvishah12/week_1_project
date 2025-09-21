@@ -1,16 +1,17 @@
 .oneShop{
-  width: 200px;
-  min-height: 250px;
+  width: 250px;
+  min-height: 200px;
   text-align: center;
-  padding: 20px;
-  margin: 20px;
-  border-radius: 15px;
   border-color: #231709;
   border-style: solid;
   background-color: white;
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  margin: 20px;
+}
+
+.writtenInfo{
+  margin: 10px;
 }
 
 .cardBox{
